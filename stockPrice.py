@@ -1,0 +1,1 @@
+shares =input('Enter number of shares')
